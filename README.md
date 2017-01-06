@@ -1,5 +1,5 @@
 # BMICalculator
-A simple Swift class for calculating BMI (Body Mass Index values) that I used for a personal project.
+A simple Swift class for calculating BMI (Body Mass Index) values that I used for a personal project.
 
 ## Usage
 BMICalculator provides a single class with one public function that'll calculate a BMI value based on two required values: the weight and the height. In addition to that, you can specify wether the passed values are in imperial or metric units. It's super simple and will calculate the BMI value as well as returning an appropriate BMI rating (such as normal, obese class II or mild thinness).
