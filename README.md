@@ -1,4 +1,6 @@
 # BMICalculator
+![](https://img.shields.io/badge/Swift-3.0-orange.svg) ![](https://img.shields.io/github/license/marcelvoss/BMICalculator.svg)
+
 A simple Swift class for calculating BMI (Body Mass Index) values that I used for a personal project.
 
 ## Usage
